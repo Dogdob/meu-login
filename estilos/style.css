@@ -34,9 +34,26 @@ section#login{
     color: white;
 }
 section#login > div#imagem{
-    background-image: url(../imagens/vaporewave.jpg);
+    background-image: url(../imagens/image1_0_watermark\ \(1\)_cleanup.jpg);
     display: block;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
+}
+form > input[type=submit]{
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+}
+form > a.botao{
+    display: block;
+    text-decoration: none;
+    font-size: 1em;
+    background-color: green;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    
 }
