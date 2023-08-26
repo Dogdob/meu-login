@@ -33,7 +33,7 @@
         color: white;
         height: 40px;
         border-radius: 5px;
-        margin-left: 48px;
+        margin-left: 56px;
         margin-top: 5px;
      }
      form > input[type=submit]:hover{
@@ -48,7 +48,7 @@
          color: white;
          height: 40px;
          border-radius: 5px;
-         margin-left: 48px;
+         margin-left: 56px;
          margin-top: 5px;
          text-decoration: none;
      }
@@ -69,7 +69,7 @@
          height: 40px;
          border-radius: 8px;
          margin: 5px 0px;
-         margin-left: 48px;
+         margin-left: 56px;
      }
      div.campo > label{
          display: none;
